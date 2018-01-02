@@ -1,0 +1,2 @@
+# chill
+discord chill bot
